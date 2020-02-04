@@ -1,0 +1,30 @@
+@import url('./header.css');
+@import url('./greyscale.css');
+@import url('./about.css');
+@import url('./quadros.css');
+@import url('./subscribe.css');
+@import url('./social.css');
+@import url('./copyright.css');
+
+@font-face {
+    font-family: 'Varela Round';
+    src: url('https://fonts.googleapis.com/css?family=Varela+Round');
+    src: url('https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    
+}

@@ -1,0 +1,28 @@
+.texto-centro {
+    text-align: center;
+    padding-top: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.greyscale {
+    text-transform: uppercase;
+    color: #565656;
+    font-family: 'Varela Round';
+    font-size: 6.25rem;
+    letter-spacing: 0.3125rem;
+}
+.text-center {
+    color: rgba(255, 255, 255, .5);
+    font-size: 1.25rem;
+}
+.get-started {
+    display: block;
+    border-radius: 10px;
+    height: 60px;
+    width: 150px;
+    color: rgba(255, 255, 255, .5);
+    background-color: rgb(79, 131, 127);
+    margin-top: 40px;
+}

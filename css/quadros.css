@@ -1,0 +1,65 @@
+.quadros {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: auto;
+    display: inline-flex;
+    align-content: center;
+    flex-direction: column;
+}
+.shoreline-box {
+    display: flex;
+    align-items: center;
+    padding-left: 550px;
+    padding-top: 150px;
+}
+.conteudo {
+    padding-left: 25px;
+    padding-bottom: 200px;
+}
+.floresta {
+    height: 400px;
+    width: 700px;
+    max-width: 100%;
+}
+
+.box1 {
+    display: inline-flex;
+    padding-top: 100px;
+    align-items: center;
+    padding-left: 450px;
+}
+.box2 {
+    display: inline-flex;
+    padding-top: 100px;
+    align-items: center;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    padding-left: 450px;
+}
+.conteudo1 {
+    background-color: #161616;
+    color: whitesmoke;
+    height: 300px;
+    width: 500px;
+    padding-left: 25px;
+    padding-top: 1.25rem;
+}
+.conteudo2 {
+    background-color: #161616;
+    color: whitesmoke;
+    height: 300px;
+    width: 500px;
+    padding-left: 50px;
+    padding-top: 1.25rem;
+}
+.conteudo2 h4 {
+    padding-left: 320px;
+}
+.montanha1 {
+    height: 300px;
+    width: 500px;
+    vertical-align: middle;
+    max-width: 100%;  
+}
